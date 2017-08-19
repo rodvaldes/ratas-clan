@@ -1,0 +1,12 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.idea/modules.xml
+.idea/ratas-clan.iml
+.idea/sonarlint/
+.idea/workspace.xml

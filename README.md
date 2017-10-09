@@ -1,6 +1,19 @@
 # Ratas Clan Server
  
-Un espacio para decir amouchen!!!.
+## Overview ##
+
+La idea es poder contar con un servidor centralizado de juegos Arcade
+para jugar on-line.
+
+## Scope ##
+
+Realizar una prueba de concepto de servidor Arcade en la nube. La prueba debe considerar.
+
+* Instalación Y Configuración de máquina en la nube modalidad IaaS.
+* Instalación de Servidor Kaillera.
+* Prueba conexión remota Kaillera con cliente MAME.
+* Prueba piloto modo 2P.
+
 
 
 ## Instalación del servidor Kaillera.
